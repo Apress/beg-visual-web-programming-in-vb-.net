@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Friends xmlns="http://www.apress.com/schemas/friendsreunion" PlaceID="C95FE0A8-D24F-43cf-99CD-AA267BEFB21C">
+	<User ID="6F724ACE-4230-42a1-9EE2">
+		<Login>gmorande</Login>
+		<Password>gusygaby</Password>
+		<FirstName>Gustavo</FirstName>
+		<LastName>Morande</LastName>
+		<Institution>Invalid Institution Content</Institution>
+		<PhoneNumber>0191-700-7007</PhoneNumber>
+		<Address>2266 3rd. February Street, Buenos Aires</Address>
+		<Email>gmorande@clariusconsulting.com</Email>
+	</User>
+	<User ID="A8DAF7E7-E736-4d54-8797-BB6BA9E07639">
+		<Login>acarvallo</Login>
+		<Password>any</Password>
+		<FirstName>Analia</FirstName>
+		<LastName>Carvallo</LastName>
+		<PhoneNumber>4247-7396</PhoneNumber>
+		<Address>Dr. Melo 2836</Address>
+		<Email>any@clariusconsulting.com</Email>
+	</User>
+</Friends>

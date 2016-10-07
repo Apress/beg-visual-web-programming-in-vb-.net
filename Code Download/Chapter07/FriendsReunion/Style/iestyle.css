@@ -1,0 +1,155 @@
+body
+{
+  background-color: #f0f1f6;
+  font-size: 8pt;
+  font-family: Tahoma, Verdana, 'Times New Roman';
+}
+TABLE
+{
+	font-size: 8pt;
+	font-family: Tahoma;
+}
+.TextBox
+{
+  border-right: #c7ccdc 1px solid;
+  border-top: #c7ccdc 1px solid;
+  border-left: #c7ccdc 1px solid;
+  border-bottom: #c7ccdc 1px solid;
+  font-size: 8pt;
+  font-family: Tahoma, Verdana, 'Times New Roman';
+  width: 200px;
+}
+.BigTextBox
+{
+  border-right: #c7ccdc 1px solid;
+  border-top: #c7ccdc 1px solid;
+  border-left: #c7ccdc 1px solid;
+  border-bottom: #c7ccdc 1px solid;
+  font-size: 8pt;
+  font-family: Tahoma, Verdana, 'Times New Roman';
+  width: 350px;
+}
+.SmallTextBox
+{
+  border-right: #c7ccdc 1px solid;
+  border-top: #c7ccdc 1px solid;
+  font-size: 8pt;
+  border-left: #c7ccdc 1px solid;
+  border-bottom: #c7ccdc 1px solid;
+  font-family: Tahoma, Verdana, 'Times New Roman';
+  width: 70px;
+}
+.Button
+{
+  background-color: gainsboro;
+  border-right: darkgray 1px solid;
+  border-top: darkgray 1px solid;
+  border-left: darkgray 1px solid;
+  border-bottom: darkgray 1px solid;
+  font-size: 8pt;
+  font-family: Tahoma, Verdana, 'Times New Roman';
+}
+.Normal
+{
+  font-size: 8pt;
+  font-family: Tahoma, Verdana, 'Times New Roman';
+}
+.HeaderFriends
+{
+  padding-right: 5px;
+  padding-left: 5px;
+  font-weight: bold;
+  font-size: 8pt;
+  font-family: Tahoma, Verdana, 'Times New Roman';
+  width: 100%;
+  color: white;
+  background-color: #336699;
+  text-align: right;
+}
+.HeaderImage
+{
+  vertical-align: middle;
+}
+.HeaderTitle
+{
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-right: 10px;
+  font-weight: bold;
+  font-size: 8pt;
+  font-family: Tahoma, Verdana, 'Times New Roman';
+  width: 100%;
+  color: white;
+  background-color: #336699;
+}
+.FooterFriends
+{
+  font-size: 8pt;
+  font-family: Tahoma, Verdana, 'Times New Roman';
+  width: 100%;
+  color: white;
+  background-color: #336699;
+  text-align: center;
+}
+.SubHeader
+{
+  border-top: 3px groove;
+  font-size: 8pt;
+  color: white;
+  font-family: Tahoma, Verdana, 'Times New Roman';
+  background-color: #4f82b5;
+  text-align: right;
+  display: block;
+  width: 100%;
+}
+.Hidden
+{
+  visibility: hidden;
+  display: none;
+}
+.PlaceHeader
+{
+  border-bottom: 1px solid;
+}
+.PlaceItem
+{
+  border-bottom: #336699 1px solid;
+  border-left: #336699 1px solid;
+  border-right: #336699 1px solid;
+  border-top: #336699 1px solid;
+  padding: 5px 5px 5px 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.PlaceTitle
+{
+  font-weight: bold;
+  width: 100%;
+  color: white;
+  background-color: #336699;
+}
+.PlaceSummary
+{
+  font-weight: bold;
+  width: 100%;
+  color: white;
+  background-color: black;
+}
+.MediumTextBox
+{
+  border: solid 1px #c7ccdc;
+  font-size: 8pt;
+  font-family: Tahoma, Verdana, 'Times New Roman';
+  width: 140px;
+}
+.Search
+{
+  border: solid 1px silver;
+  padding: 5px 5px 5px 5px;
+  background-color: gainsboro;
+  width: 250px;
+}
+.SearchResults
+{
+  padding: 5px 5px 5px 5px;
+}		
